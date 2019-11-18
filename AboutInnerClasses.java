@@ -98,7 +98,7 @@ public class AboutInnerClasses {
                 }
             }
 
-               Ignoreable ignoreable = new bd() {
+               Ignoreable ignoreable = new bd();
   //          public String ignoreAll() {
     //            return null;
         //    }
